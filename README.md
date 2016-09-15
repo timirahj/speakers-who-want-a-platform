@@ -320,3 +320,8 @@ Zach Carter
 Founder & Design Engineer  
 [Website](http://zaa.ch) | [Twitter](https://twitter.com/zii) |
 [GitHub](https://github.com/zaach) | [LinkedIn](http://linkedin.com/in/zachcarter)
+
+Timirah James
+Core Development Evangelist
+Verizon Digital Media Services
+[Website](https://www.timirahjames.tech) | [Twitter](https//twitter.com/TimirahJ) | [LinkedIn](https://www.linkedin.com/in/timirahjames)
